@@ -1,5 +1,5 @@
 import java.lang.reflect.Array;
-
+//A string of braces is considered valid if all braces are matched with the correct brace.
 public class Exercise7 {
     public boolean isValid(String braces) {
         int parenCount = 0;
